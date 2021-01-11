@@ -1,6 +1,6 @@
 # VS Code notebook renderers for Jupyter
 
-This repo is an experiment on how to port a Jupyter renderer plugin to VS Code extension ecosystem.
+This repo is an experiment on how to port a Jupyter renderer plugin to VS Code extension ecosystem. The major purpose (if not the only one) for now is figuring out the challenges of porting an output renderer plugin on Jupyter Notebook/JupyterLab to VS Code environment.
 
 ## Geojson
 
